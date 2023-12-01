@@ -5,4 +5,4 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-console.log("==========Bem -vindo a jogo da força!!!==========");
+console.log("========== Bem-vindo ao jogo da força!!! ==========");
